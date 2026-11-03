@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "q": "You find a secret door. What do you do?",
+    "a": [
+      "Open it!",
+      "Study the lock.",
+      "Call a friend.",
+      "Find the key."
+    ],
+    "help": {
+      "word": "door",
+      "icon": "🚪"
+    }
+  },
+  {
+    "id": 2,
+    "q": "A dragon is sleeping. What do you do?",
+    "a": [
+      "Walk closer.",
+      "Watch it quietly.",
+      "Keep others safe.",
+      "Look for its treasure."
+    ],
+    "help": {
+      "word": "dragon",
+      "icon": "🐉"
+    }
+  },
+  {
+    "id": 3,
+    "q": "You see a magic map. What do you do?",
+    "a": [
+      "Follow it now.",
+      "Read every symbol.",
+      "Share it with friends.",
+      "Find the fastest route."
+    ],
+    "help": {
+      "word": "map",
+      "icon": "🗺️"
+    }
+  },
+  {
+    "id": 4,
+    "q": "A ghost says hello. What do you do?",
+    "a": [
+      "Say hello back!",
+      "Ask it questions.",
+      "Introduce your friends.",
+      "Ask for a secret."
+    ],
+    "help": {
+      "word": "ghost",
+      "icon": "👻"
+    }
+  },
+  {
+    "id": 5,
+    "q": "You find a golden key. What do you do?",
+    "a": [
+      "Try it on a door.",
+      "Look for clues.",
+      "Give it to its owner.",
+      "Keep it safe for later."
+    ],
+    "help": {
+      "word": "key",
+      "icon": "🗝️"
+    }
+  },
+  {
+    "id": 6,
+    "q": "You hear a strange noise. What do you do?",
+    "a": [
+      "Go and look.",
+      "Listen carefully.",
+      "Stay with your friends.",
+      "Make a safe plan."
+    ],
+    "help": {
+      "word": "noise",
+      "icon": "🔊"
+    }
+  },
+  {
+    "id": 7,
+    "q": "A magic book is closed. What do you do?",
+    "a": [
+      "Open it now.",
+      "Read the title first.",
+      "Read it with a friend.",
+      "Find the best spell."
+    ],
+    "help": {
+      "word": "book",
+      "icon": "📖"
+    }
+  },
+  {
+    "id": 8,
+    "q": "You see a dark forest. What do you do?",
+    "a": [
+      "Explore it!",
+      "Look at a map.",
+      "Go with friends.",
+      "Find a safe path."
+    ],
+    "help": {
+      "word": "forest",
+      "icon": "🌲"
+    }
+  },
+  {
+    "id": 9,
+    "q": "You find a lost owl. What do you do?",
+    "a": [
+      "Pick it up.",
+      "Look for its name.",
+      "Help it get home.",
+      "Teach it to follow you."
+    ],
+    "help": {
+      "word": "owl",
+      "icon": "🦉"
+    }
+  },
+  {
+    "id": 10,
+    "q": "A bridge looks old. What do you do?",
+    "a": [
+      "Cross it carefully.",
+      "Check if it is safe.",
+      "Help others cross.",
+      "Find another way."
+    ],
+    "help": {
+      "word": "bridge",
+      "icon": "🌉"
+    }
+  },
+  {
+    "id": 11,
+    "q": "You have a new wand. What do you do?",
+    "a": [
+      "Try a spell!",
+      "Learn how it works.",
+      "Show a friend.",
+      "Practise to be the best."
+    ],
+    "help": {
+      "word": "wand",
+      "icon": "🪄"
+    }
+  },
+  {
+    "id": 12,
+    "q": "You see a magic mirror. What do you do?",
+    "a": [
+      "Look inside.",
+      "Study its magic.",
+      "Invite a friend.",
+      "Ask it about your future."
+    ],
+    "help": {
+      "word": "mirror",
+      "icon": "🪞"
+    }
+  },
+  {
+    "id": 13,
+    "q": "A potion changes colour. What do you do?",
+    "a": [
+      "Taste a tiny drop.",
+      "Find out why.",
+      "Warn your friends.",
+      "Make a better potion."
+    ],
+    "help": {
+      "word": "potion",
+      "icon": "🧪"
+    }
+  },
+  {
+    "id": 14,
+    "q": "You find a small chest. What do you do?",
+    "a": [
+      "Open it.",
+      "Look for a message.",
+      "Find its owner.",
+      "Discover its secret."
+    ],
+    "help": {
+      "word": "chest",
+      "icon": "📦"
+    }
+  },
+  {
+    "id": 15,
+    "q": "A staircase moves. What do you do?",
+    "a": [
+      "Jump on it!",
+      "Watch its pattern.",
+      "Wait for your friends.",
+      "Find the quickest way."
+    ],
+    "help": {
+      "word": "staircase",
+      "icon": "🪜"
+    }
+  },
+  {
+    "id": 16,
+    "q": "You find a secret tunnel. What do you do?",
+    "a": [
+      "Go inside.",
+      "Draw a map.",
+      "Tell your friends.",
+      "Find where it ends."
+    ],
+    "help": {
+      "word": "tunnel",
+      "icon": "🚇"
+    }
+  },
+  {
+    "id": 17,
+    "q": "Your friend is sad. What do you do?",
+    "a": [
+      "Make them laugh.",
+      "Ask what happened.",
+      "Listen and stay.",
+      "Find a way to help."
+    ],
+    "help": {
+      "word": "sad",
+      "icon": "😢"
+    }
+  },
+  {
+    "id": 18,
+    "q": "A new student is alone. What do you do?",
+    "a": [
+      "Say hello first.",
+      "Ask about their interests.",
+      "Invite them to join you.",
+      "Organise a group game."
+    ],
+    "help": {
+      "word": "alone",
+      "icon": "🧍"
+    }
+  },
+  {
+    "id": 19,
+    "q": "Your team loses a game. What do you do?",
+    "a": [
+      "Try again!",
+      "Think about mistakes.",
+      "Say 'good game'.",
+      "Train for next time."
+    ],
+    "help": {
+      "word": "team",
+      "icon": "👥"
+    }
+  },
+  {
+    "id": 20,
+    "q": "A friend forgets homework. What do you do?",
+    "a": [
+      "Talk to the teacher.",
+      "Explain the task.",
+      "Help them understand.",
+      "Make a study plan."
+    ],
+    "help": {
+      "word": "homework",
+      "icon": "✏️"
+    }
+  },
+  {
+    "id": 21,
+    "q": "You have two sweets. What do you do?",
+    "a": [
+      "Try a new flavour.",
+      "Read the labels.",
+      "Share with a friend.",
+      "Save one for later."
+    ],
+    "help": {
+      "word": "sweets",
+      "icon": "🍬"
+    }
+  },
+  {
+    "id": 22,
+    "q": "Someone drops their bag. What do you do?",
+    "a": [
+      "Pick it up quickly.",
+      "Look for missing things.",
+      "Help collect everything.",
+      "Find the owner."
+    ],
+    "help": {
+      "word": "bag",
+      "icon": "🎒"
+    }
+  },
+  {
+    "id": 23,
+    "q": "Your friend is afraid. What do you do?",
+    "a": [
+      "Go first.",
+      "Explain the situation.",
+      "Stay beside them.",
+      "Find a safer way."
+    ],
+    "help": {
+      "word": "afraid",
+      "icon": "😨"
+    }
+  },
+  {
+    "id": 24,
+    "q": "A friend has a problem. What do you do?",
+    "a": [
+      "Take action.",
+      "Ask good questions.",
+      "Listen carefully.",
+      "Make a plan."
+    ],
+    "help": {
+      "word": "problem",
+      "icon": "🧩"
+    }
+  },
+  {
+    "id": 25,
+    "q": "You win a prize. What do you do?",
+    "a": [
+      "Celebrate loudly!",
+      "Ask how it was made.",
+      "Thank your team.",
+      "Set a new goal."
+    ],
+    "help": {
+      "word": "prize",
+      "icon": "🏆"
+    }
+  },
+  {
+    "id": 26,
+    "q": "Your group needs a leader. What do you do?",
+    "a": [
+      "Volunteer!",
+      "Suggest new ideas.",
+      "Support everyone.",
+      "Organise the work."
+    ],
+    "help": {
+      "word": "leader",
+      "icon": "👑"
+    }
+  },
+  {
+    "id": 27,
+    "q": "You see someone fall. What do you do?",
+    "a": [
+      "Run to help.",
+      "Check what happened.",
+      "Stay with them.",
+      "Get an adult quickly."
+    ],
+    "help": {
+      "word": "fall",
+      "icon": "🤕"
+    }
+  },
+  {
+    "id": 28,
+    "q": "You find a lost scarf. What do you do?",
+    "a": [
+      "Ask whose it is.",
+      "Look for a name.",
+      "Take it to the teacher.",
+      "Organise a search."
+    ],
+    "help": {
+      "word": "scarf",
+      "icon": "🧣"
+    }
+  },
+  {
+    "id": 29,
+    "q": "Your friend has a secret. What do you do?",
+    "a": [
+      "Promise to be honest.",
+      "Ask only if they want.",
+      "Keep their secret.",
+      "Help them solve it."
+    ],
+    "help": {
+      "word": "secret",
+      "icon": "🔐"
+    }
+  },
+  {
+    "id": 30,
+    "q": "A classmate needs help. What do you do?",
+    "a": [
+      "Offer immediately.",
+      "Explain step by step.",
+      "Work together.",
+      "Show an easy method."
+    ],
+    "help": {
+      "word": "help",
+      "icon": "🤝"
+    }
+  },
+  {
+    "id": 31,
+    "q": "You see a bully. What do you do?",
+    "a": [
+      "Speak up safely.",
+      "Understand the situation.",
+      "Support the student.",
+      "Tell a trusted adult."
+    ],
+    "help": {
+      "word": "bully",
+      "icon": "⚠️"
+    }
+  },
+  {
+    "id": 32,
+    "q": "A friend invites you out. What do you do?",
+    "a": [
+      "Try something new.",
+      "Ask where you are going.",
+      "Bring another friend.",
+      "Plan a fun activity."
+    ],
+    "help": {
+      "word": "invite",
+      "icon": "✉️"
+    }
+  },
+  {
+    "id": 33,
+    "q": "You must cross a river. What do you do?",
+    "a": [
+      "Try the stepping stones.",
+      "Study the water.",
+      "Help everyone cross.",
+      "Build a small bridge."
+    ],
+    "help": {
+      "word": "river",
+      "icon": "🏞️"
+    }
+  },
+  {
+    "id": 34,
+    "q": "A monster blocks your path. What do you do?",
+    "a": [
+      "Face it bravely.",
+      "Learn what it wants.",
+      "Protect your friends.",
+      "Find a clever way past."
+    ],
+    "help": {
+      "word": "monster",
+      "icon": "👹"
+    }
+  },
+  {
+    "id": 35,
+    "q": "You must speak on stage. What do you do?",
+    "a": [
+      "Go first.",
+      "Prepare interesting facts.",
+      "Speak with a partner.",
+      "Practise to do well."
+    ],
+    "help": {
+      "word": "stage",
+      "icon": "🎭"
+    }
+  },
+  {
+    "id": 36,
+    "q": "You find a difficult puzzle. What do you do?",
+    "a": [
+      "Start immediately.",
+      "Study the pieces.",
+      "Solve it with friends.",
+      "Try until you win."
+    ],
+    "help": {
+      "word": "puzzle",
+      "icon": "🧩"
+    }
+  },
+  {
+    "id": 37,
+    "q": "A big storm begins. What do you do?",
+    "a": [
+      "Stay calm and act.",
+      "Watch the weather.",
+      "Help everyone inside.",
+      "Find the safest room."
+    ],
+    "help": {
+      "word": "storm",
+      "icon": "⛈️"
+    }
+  },
+  {
+    "id": 38,
+    "q": "You see a high tower. What do you do?",
+    "a": [
+      "Climb it.",
+      "Count its floors.",
+      "Go with friends.",
+      "Find the best view."
+    ],
+    "help": {
+      "word": "tower",
+      "icon": "🏰"
+    }
+  },
+  {
+    "id": 39,
+    "q": "You hear a loud roar. What do you do?",
+    "a": [
+      "Stand your ground.",
+      "Find the animal.",
+      "Warn your friends.",
+      "Look for shelter."
+    ],
+    "help": {
+      "word": "roar",
+      "icon": "🦁"
+    }
+  },
+  {
+    "id": 40,
+    "q": "A race starts soon. What do you do?",
+    "a": [
+      "Run your fastest.",
+      "Study the route.",
+      "Encourage your team.",
+      "Plan your speed."
+    ],
+    "help": {
+      "word": "race",
+      "icon": "🏃"
+    }
+  },
+  {
+    "id": 41,
+    "q": "A friend dares you to jump. What do you do?",
+    "a": [
+      "Try if it is safe.",
+      "Check the height.",
+      "Say no if it is dangerous.",
+      "Find another challenge."
+    ],
+    "help": {
+      "word": "jump",
+      "icon": "🦘"
+    }
+  },
+  {
+    "id": 42,
+    "q": "You have to make a choice. What do you do?",
+    "a": [
+      "Trust yourself.",
+      "Think carefully.",
+      "Ask someone you trust.",
+      "Compare your options."
+    ],
+    "help": {
+      "word": "choice",
+      "icon": "↔️"
+    }
+  },
+  {
+    "id": 43,
+    "q": "You discover a new planet. What do you do?",
+    "a": [
+      "Explore it.",
+      "Study its stars.",
+      "Invite your team.",
+      "Build a base."
+    ],
+    "help": {
+      "word": "planet",
+      "icon": "🪐"
+    }
+  },
+  {
+    "id": 44,
+    "q": "A teacher asks a hard question. What do you do?",
+    "a": [
+      "Try an answer.",
+      "Think of clues.",
+      "Discuss with a partner.",
+      "Find the best answer."
+    ],
+    "help": {
+      "word": "teacher",
+      "icon": "🧑‍🏫"
+    }
+  },
+  {
+    "id": 45,
+    "q": "You find an old letter. What do you do?",
+    "a": [
+      "Open it.",
+      "Read it carefully.",
+      "Find who wrote it.",
+      "Use its information."
+    ],
+    "help": {
+      "word": "letter",
+      "icon": "✉️"
+    }
+  },
+  {
+    "id": 46,
+    "q": "A strange plant is growing. What do you do?",
+    "a": [
+      "Touch a leaf carefully.",
+      "Study its shape.",
+      "Water it.",
+      "Find how to grow more."
+    ],
+    "help": {
+      "word": "plant",
+      "icon": "🌱"
+    }
+  },
+  {
+    "id": 47,
+    "q": "You have a free afternoon. What do you do?",
+    "a": [
+      "Try a new sport.",
+      "Learn a new skill.",
+      "Meet your friends.",
+      "Finish a project."
+    ],
+    "help": {
+      "word": "afternoon",
+      "icon": "☀️"
+    }
+  },
+  {
+    "id": 48,
+    "q": "A robot asks for help. What do you do?",
+    "a": [
+      "Press its button.",
+      "Learn how it works.",
+      "Help it kindly.",
+      "Repair it."
+    ],
+    "help": {
+      "word": "robot",
+      "icon": "🤖"
+    }
+  },
+  {
+    "id": 49,
+    "q": "You can visit the moon. What do you do?",
+    "a": [
+      "Go now!",
+      "Study the moon first.",
+      "Take a friend.",
+      "Plan the mission."
+    ],
+    "help": {
+      "word": "moon",
+      "icon": "🌙"
+    }
+  },
+  {
+    "id": 50,
+    "q": "A painting moves. What do you do?",
+    "a": [
+      "Touch the frame.",
+      "Ask how it moves.",
+      "Show your friends.",
+      "Find its hidden message."
+    ],
+    "help": {
+      "word": "painting",
+      "icon": "🖼️"
+    }
+  },
+  {
+    "id": 51,
+    "q": "You can invent a spell. What does it do?",
+    "a": [
+      "Make me fly.",
+      "Answer questions.",
+      "Help sick animals.",
+      "Make work easier."
+    ],
+    "help": {
+      "word": "spell",
+      "icon": "🪄"
+    }
+  },
+  {
+    "id": 52,
+    "q": "You find a new game. What do you do?",
+    "a": [
+      "Play right away.",
+      "Read the rules.",
+      "Invite everyone.",
+      "Learn how to win."
+    ],
+    "help": {
+      "word": "game",
+      "icon": "🎲"
+    }
+  },
+  {
+    "id": 53,
+    "q": "A magic clock stops. What do you do?",
+    "a": [
+      "Try to start it.",
+      "Study its hands.",
+      "Ask a friend to help.",
+      "Fix it."
+    ],
+    "help": {
+      "word": "clock",
+      "icon": "🕰️"
+    }
+  },
+  {
+    "id": 54,
+    "q": "You find a strange stone. What do you do?",
+    "a": [
+      "Pick it up.",
+      "Study its colour.",
+      "Give it to a friend.",
+      "Test its powers."
+    ],
+    "help": {
+      "word": "stone",
+      "icon": "🪨"
+    }
+  },
+  {
+    "id": 55,
+    "q": "A bird can talk. What do you do?",
+    "a": [
+      "Talk back!",
+      "Ask many questions.",
+      "Offer it food.",
+      "Ask it for information."
+    ],
+    "help": {
+      "word": "bird",
+      "icon": "🐦"
+    }
+  },
+  {
+    "id": 56,
+    "q": "You can choose a school club. Which one?",
+    "a": [
+      "Adventure club.",
+      "Science club.",
+      "Helping club.",
+      "Chess club."
+    ],
+    "help": {
+      "word": "club",
+      "icon": "♟️"
+    }
+  },
+  {
+    "id": 57,
+    "q": "You get a surprise box. What do you do?",
+    "a": [
+      "Open it now.",
+      "Guess what is inside.",
+      "Open it with friends.",
+      "Save it for a special day."
+    ],
+    "help": {
+      "word": "box",
+      "icon": "🎁"
+    }
+  },
+  {
+    "id": 58,
+    "q": "You have a magic camera. What do you photograph?",
+    "a": [
+      "A wild adventure.",
+      "A rare animal.",
+      "My best friends.",
+      "A famous place."
+    ],
+    "help": {
+      "word": "camera",
+      "icon": "📷"
+    }
+  },
+  {
+    "id": 59,
+    "q": "You can build a room. What is inside?",
+    "a": [
+      "An adventure course.",
+      "A science lab.",
+      "A cosy sofa.",
+      "A trophy shelf."
+    ],
+    "help": {
+      "word": "room",
+      "icon": "🚪"
+    }
+  },
+  {
+    "id": 60,
+    "q": "Choose a magic pet!",
+    "a": [
+      "A brave lion.",
+      "A clever owl.",
+      "A friendly dog.",
+      "A fast snake."
+    ],
+    "help": {
+      "word": "pet",
+      "icon": "🐾"
+    }
+  },
+  {
+    "id": 61,
+    "q": "What makes a good day?",
+    "a": [
+      "A new adventure.",
+      "Learning something.",
+      "Time with friends.",
+      "Reaching a goal."
+    ],
+    "help": {
+      "word": "day",
+      "icon": "☀️"
+    }
+  },
+  {
+    "id": 62,
+    "q": "What do you do at a party?",
+    "a": [
+      "Start the dancing.",
+      "Discover new music.",
+      "Talk to everyone.",
+      "Organise the games."
+    ],
+    "help": {
+      "word": "party",
+      "icon": "🎉"
+    }
+  },
+  {
+    "id": 63,
+    "q": "You get a difficult task. What helps?",
+    "a": [
+      "Being confident.",
+      "Finding information.",
+      "Working together.",
+      "Having a plan."
+    ],
+    "help": {
+      "word": "task",
+      "icon": "📋"
+    }
+  },
+  {
+    "id": 64,
+    "q": "Which gift do you prefer?",
+    "a": [
+      "A trip to a new place.",
+      "A mystery game.",
+      "A photo with friends.",
+      "A special tool."
+    ],
+    "help": {
+      "word": "gift",
+      "icon": "🎁"
+    }
+  },
+  {
+    "id": 65,
+    "q": "What do you do after school?",
+    "a": [
+      "Try a new activity.",
+      "Read about a topic.",
+      "Meet my friends.",
+      "Work on my goals."
+    ],
+    "help": {
+      "word": "school",
+      "icon": "🏫"
+    }
+  },
+  {
+    "id": 66,
+    "q": "What is your favourite kind of story?",
+    "a": [
+      "An adventure.",
+      "A mystery.",
+      "A friendship story.",
+      "A story about success."
+    ],
+    "help": {
+      "word": "story",
+      "icon": "📜"
+    }
+  },
+  {
+    "id": 67,
+    "q": "You can choose a badge. Which one?",
+    "a": [
+      "A lion.",
+      "An owl.",
+      "A badger.",
+      "A snake."
+    ],
+    "help": {
+      "word": "badge",
+      "icon": "🏅"
+    }
+  },
+  {
+    "id": 68,
+    "q": "You see a big mountain. What do you do?",
+    "a": [
+      "Climb it.",
+      "Study a map.",
+      "Go with friends.",
+      "Find the best path."
+    ],
+    "help": {
+      "word": "mountain",
+      "icon": "⛰️"
+    }
+  },
+  {
+    "id": 69,
+    "q": "A team needs a name. What do you do?",
+    "a": [
+      "Choose a bold name.",
+      "Invent a clever name.",
+      "Ask everyone.",
+      "Pick a winning name."
+    ],
+    "help": {
+      "word": "team",
+      "icon": "👥"
+    }
+  },
+  {
+    "id": 70,
+    "q": "You can help your school. How?",
+    "a": [
+      "Stand up for others.",
+      "Create a new idea.",
+      "Welcome new students.",
+      "Organise an event."
+    ],
+    "help": {
+      "word": "school",
+      "icon": "🏫"
+    }
+  },
+  {
+    "id": 71,
+    "q": "A friend wins a competition. What do you do?",
+    "a": [
+      "Cheer loudly.",
+      "Ask for tips.",
+      "Congratulate them.",
+      "Train for next time."
+    ],
+    "help": {
+      "word": "competition",
+      "icon": "🏆"
+    }
+  },
+  {
+    "id": 72,
+    "q": "You find a magic coin. What do you do?",
+    "a": [
+      "Flip it.",
+      "Study the picture.",
+      "Share its story.",
+      "Save it for later."
+    ],
+    "help": {
+      "word": "coin",
+      "icon": "🪙"
+    }
+  },
+  {
+    "id": 73,
+    "q": "You must choose a path. Which one?",
+    "a": [
+      "The exciting path.",
+      "The unknown path.",
+      "The path with friends.",
+      "The shortest path."
+    ],
+    "help": {
+      "word": "path",
+      "icon": "🛤️"
+    }
+  },
+  {
+    "id": 74,
+    "q": "You can meet a wizard. What do you ask?",
+    "a": [
+      "Can we have an adventure?",
+      "How does magic work?",
+      "Can you help my friends?",
+      "Can you teach me a spell?"
+    ],
+    "help": {
+      "word": "wizard",
+      "icon": "🧙"
+    }
+  },
+  {
+    "id": 75,
+    "q": "A castle needs a new flag. What do you do?",
+    "a": [
+      "Choose bright colours.",
+      "Design a new symbol.",
+      "Ask the whole class.",
+      "Make it memorable."
+    ],
+    "help": {
+      "word": "flag",
+      "icon": "🚩"
+    }
+  },
+  {
+    "id": 76,
+    "q": "You find a hidden garden. What do you do?",
+    "a": [
+      "Explore it.",
+      "Name the plants.",
+      "Invite your friends.",
+      "Make it beautiful."
+    ],
+    "help": {
+      "word": "garden",
+      "icon": "🌷"
+    }
+  },
+  {
+    "id": 77,
+    "q": "You have a magic bicycle. Where do you go?",
+    "a": [
+      "To a new city.",
+      "To a museum.",
+      "To see my friends.",
+      "To a big competition."
+    ],
+    "help": {
+      "word": "bicycle",
+      "icon": "🚲"
+    }
+  },
+  {
+    "id": 78,
+    "q": "You are captain for a day. What do you do?",
+    "a": [
+      "Lead an adventure.",
+      "Find a new route.",
+      "Help the whole crew.",
+      "Organise the jobs."
+    ],
+    "help": {
+      "word": "captain",
+      "icon": "🧭"
+    }
+  },
+  {
+    "id": 79,
+    "q": "A new challenge appears. What do you say?",
+    "a": [
+      "Let's do it!",
+      "How does it work?",
+      "Let's do it together!",
+      "We can succeed!"
+    ],
+    "help": {
+      "word": "challenge",
+      "icon": "🏅"
+    }
+  },
+  {
+    "id": 80,
+    "q": "You find a magic star. What do you wish?",
+    "a": [
+      "A great adventure.",
+      "More knowledge.",
+      "Happiness for friends.",
+      "Success in my dreams."
+    ],
+    "help": {
+      "word": "star",
+      "icon": "⭐"
+    }
+  }
+]
